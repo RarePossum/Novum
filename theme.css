@@ -2467,4 +2467,10 @@ div[class^=notice] button:hover {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.cozy-VmLDNB .timestamp-p1Df1m .timestampInline-_lS3aK {
+	font-size: 0.0rem;
+	line-height: 1.375rem;
+	color: var(--text-muted);
+	vertical-align: baseline
+}
 /*# sourceMappingURL=theme.css.map */
